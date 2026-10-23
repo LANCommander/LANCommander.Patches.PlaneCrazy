@@ -1,0 +1,5 @@
+Game/
+bin/
+build/
+ghidra/
+__pycache__/
